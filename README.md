@@ -16,6 +16,10 @@
 
 ![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=raghavTinker&count_private=true&include_all_commits=true&theme=nightowl)
 
+### GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raghavTinker&theme=tokyonight)
+
 ## Connect with me :
 <p align="center">
 <a href="https://medium.com/@raghav_tinker"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png?raw=true" width="60"></a>
@@ -23,4 +27,3 @@
 <a href="www.linkedin.com/in/raghavTinker/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 <a href="https://www.instagram.com/raghav_tinker/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
 </p>
-
