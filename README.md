@@ -19,7 +19,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raghavTinker&theme=nightowl)
 
-<img alt="Top Langs" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavTinker&layout=compact&theme=nightowl" href="https://github.com/raghavTinker"/>
+<!--
+<img alt="Top Langs" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavTinker&layout=compact&theme=nightowl" href="https://github.com/raghavTinker"/> !-->
 
 ## Connect with me :
 <p align="center">
