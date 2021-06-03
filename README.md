@@ -21,6 +21,16 @@
 
 <!--
 <img alt="Top Langs" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavTinker&layout=compact&theme=nightowl" href="https://github.com/raghavTinker"/> !-->
+## Technologies I use:
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+ <img src="https://img.icons8.com/color/48/000000/linux.png"/> 
+ <img src="https://img.icons8.com/fluent/48/000000/swift.png"/>
+ <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+ <img src="Logos/c_colored.png" height="48px">
+ <img src="https://img.icons8.com/fluent/48/000000/docker.png"/>
+ <img src="https://img.icons8.com/nolan/48/networking-manager.png"/>
+
+
 
 ## Connect with me :
 <p align="center">
