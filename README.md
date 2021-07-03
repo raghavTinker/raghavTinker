@@ -12,7 +12,7 @@
 - 🍪 Side hustle - iOS App development in Swift
 - 📫 How to reach me: raghav_tinker@yahoo.com
 - 😄 Pronouns: He/Him
-- ⚡️ Fun fact: Linux is superior than Windows
+- 🥠 Fun fact: Linux is superior than Windows
 <br>
 
 ![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=raghavTinker&count_private=true&include_all_commits=true&theme=nightowl)
