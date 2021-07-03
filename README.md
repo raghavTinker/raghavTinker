@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on - Backend Development
 - 🌱 I’m currently learning - Docker, Server management, django
-- 👯 I’m looking to collaborate on - Automation projects, Django projects, Python Projects
+- 👯 I’m looking to collaborate on - Automation projects, Django projects, Python Projects, Bot projects
 - 🤔 I’m looking for help with - Data Structures and Algorithms
 - 🍪 Side hustle - iOS App development in Swift
 - 📫 How to reach me: raghav_tinker@yahoo.com
@@ -22,7 +22,7 @@
 <!--
 <img alt="Top Langs" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavTinker&layout=compact&theme=nightowl" href="https://github.com/raghavTinker"/> !-->
 ## Technologies I use:
- <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="Logos/c_colored.png" height="48px"><img src="https://img.icons8.com/color/48/000000/python.png"/><img src="https://img.icons8.com/fluent/48/000000/swift.png"/> <img src="https://img.icons8.com/color/48/000000/linux.png"/>  <img src="https://img.icons8.com/fluent/48/000000/docker.png"/> <img src="https://img.icons8.com/fluent/48/000000/github.png"/> <img src="https://img.icons8.com/nolan/48/networking-manager.png"/><img src="https://img.icons8.com/color/48/000000/travis-ci.png"/>
+ <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="Logos/c_colored.png" height="48px"><img src="https://img.icons8.com/color/48/000000/python.png"/><img src="https://img.icons8.com/fluent/48/000000/swift.png"/> <img src="https://img.icons8.com/color/48/000000/linux.png"/>  <img src="https://img.icons8.com/fluent/48/000000/docker.png"/> <img src="https://img.icons8.com/fluent/48/000000/github.png"/> <img src="https://img.icons8.com/nolan/48/networking-manager.png"/><img src="https://img.icons8.com/color/48/000000/travis-ci.png"/><img src="https://img.icons8.com/plasticine/48/000000/bash.png"/>
  
 
 
