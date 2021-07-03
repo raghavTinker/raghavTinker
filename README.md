@@ -6,8 +6,9 @@
 
 - 🔭 I’m currently working on - Backend Development
 - 🌱 I’m currently learning - Docker, Server management, django
-- 👯 I’m looking to collaborate on - Automation projects, Django projects, Python Projects, Bot projects
+- 👯 I’m looking to collaborate on - Automation projects, Python Projects, Bot projects
 - 🤔 I’m looking for help with - Data Structures and Algorithms
+- ⚡️  Interests - Networking, Dev-Ops, Automation
 - 🍪 Side hustle - iOS App development in Swift
 - 📫 How to reach me: raghav_tinker@yahoo.com
 - 😄 Pronouns: He/Him
