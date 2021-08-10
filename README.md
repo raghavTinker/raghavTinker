@@ -5,9 +5,9 @@
 <br>
 
 - 🔭 I’m currently working on - Backend Development
-- 🌱 I’m currently learning - Docker, Server management, Machine Learning
+- 🌱 I’m currently learning - Docker, Server management, Data Structures and Algorithms
 - 👯 I’m looking to collaborate on - Automation projects, Python Projects, Bot projects
-- 🤔 I’m looking for help with - Data Structures and Algorithms
+- 🤔 I’m looking for help with - Machine Learning
 - ⚡️  Interests - Networking, Dev-Ops, Automation
 - 🍪 Side hobby - iOS App development in Swift
 - 📫 How to reach me: raghav.sharma17@outlook.com
