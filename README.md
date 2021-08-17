@@ -5,7 +5,7 @@
 <br>
 
 - 🔭 I’m currently working on - Backend Development
-- 🌱 I’m currently learning - Docker, Server management, Data Structures and Algorithms
+- 🌱 I’m currently learning - Docker, Kubernetes, Server management, Data Structures and Algorithms
 - 👯 I’m looking to collaborate on - Automation projects, Python Projects, Bot projects
 - 🤔 I’m looking for help with - Machine Learning
 - ⚡️  Interests - Networking, Dev-Ops, Automation
