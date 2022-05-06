@@ -24,7 +24,7 @@
 <img alt="Top Langs" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavTinker&layout=compact&theme=nightowl" href="https://github.com/raghavTinker"/> !-->
 ## Technologies I use:
  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="Logos/c_colored.png" height="48px"><img src="https://img.icons8.com/color/48/000000/python.png"/><img src="https://img.icons8.com/fluent/48/000000/swift.png"/> <img src="https://img.icons8.com/color/48/000000/linux.png"/>  <img src="https://img.icons8.com/fluent/48/000000/docker.png"/> <img src="https://img.icons8.com/fluent/48/000000/github.png"/> <img src="https://img.icons8.com/nolan/48/networking-manager.png"/><img src="https://img.icons8.com/color/48/000000/travis-ci.png"/><img src="https://img.icons8.com/plasticine/48/000000/bash.png"/><img src="Logos/jupyter.png" height="48px"><img src="Logos/logo-teal.png" height="48px"><img src="https://img.icons8.com/color/48/000000/django.png"/><img src="https://img.icons8.com/stickers/48/000000/selenium-test-automation.png"/>
- <img src="https://img.icons8.com/ios/48/000000/flask.png"/>
+ <img src="https://img.icons8.com/ios/48/000000/flask.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 
 
 ## Connect with me :
