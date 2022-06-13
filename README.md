@@ -1,4 +1,4 @@
-## Hi, I'm Raghav ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi, I'm Raghav !👋🏻
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavTinker" alt="raghavTinker" /> </p>
 
