@@ -5,8 +5,8 @@
 <br>
 
 - 🔭 I’m currently working on - Backend Development, Automation
-- 🌱 I’m currently learning - Docker, Kubernetes, Server management, Data Structures and Algorithms
-- 👯 I’m looking to collaborate on - Automation projects, Python Projects, Bot projects
+- 🌱 I’m currently learning - Kubernetes, NestJS, ML
+- 👯 I’m looking to collaborate on - Automation projects, Python Projects, Bot projects, Backend projects
 - 🤔 I’m looking for help with - Data Structures and Algorithms
 - ⚡️  Interests - Networking, Dev-Ops, Automation
 - 🍪 Side hobby - iOS App development in Swift
